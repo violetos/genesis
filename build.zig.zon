@@ -5,8 +5,8 @@
     .minimum_zig_version = "0.16.0",
     .dependencies = .{
         .basalt = .{
-            .url = "git+https://github.com/violetos/basalt#b38d24815a0757400a0ebe7ea3e84270f7b26cb3",
-            .hash = "basalt-0.1.0-dev.1-40X_FIOAAAAZrgqI7pAftXcQpAClybgiyYCb_oS_yalL",
+            .url = "git+https://github.com/violetos/basalt#6be24bf44c63fadfaa8f691095b47dde472eaeb5",
+            .hash = "basalt-0.1.0-dev.1-40X_FLGHAACuD8VwdUi8jgMOh4vHQpbezrd_dtVZRJ8z",
         },
     },
     .paths = .{
