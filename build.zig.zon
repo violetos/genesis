@@ -1,6 +1,6 @@
 .{
     .name = .genesis,
-    .version = "0.0.0",
+    .version = "0.1.0-dev.1",
     .fingerprint = 0x8a3adb801fac6e11, // Changing this has security and trust implications.
     .minimum_zig_version = "0.16.0",
     .dependencies = .{
@@ -12,7 +12,10 @@
     .paths = .{
         "build.zig",
         "build.zig.zon",
-        "src",
+        "exe",
+        "lib",
+        "LICENSE",
+        "NOTICE.md",
         "README.md",
     },
 }
