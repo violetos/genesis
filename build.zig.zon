@@ -2,7 +2,7 @@
     .name = .genesis,
     .version = "0.1.0-dev.1",
     .fingerprint = 0x8a3adb801fac6e11, // Changing this has security and trust implications.
-    .minimum_zig_version = "0.16.0",
+    .minimum_zig_version = "0.17.0",
     .dependencies = .{
         .basalt = .{
             .url = "git+https://github.com/violetos/basalt#6be24bf44c63fadfaa8f691095b47dde472eaeb5",
